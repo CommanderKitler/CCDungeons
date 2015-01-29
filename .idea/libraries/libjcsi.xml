@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="libjcsi">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/libjcsi/distro/libjcsi.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/libjcsi/distro/sLibcsi.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/libjcsi/distro/lib/jcurses-x.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/Downloads/libjcsi/distro/lib" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
